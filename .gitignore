@@ -1,6 +1,7 @@
 raw_data/
+data/
 
-
+*.docx
 # Created by https://www.gitignore.io/api/pycharm,jupyternotebooks,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=pycharm,jupyternotebooks,visualstudiocode
 
