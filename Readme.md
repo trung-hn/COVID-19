@@ -1,7 +1,10 @@
 ### Directory tree
 ```
 .
-|-- Preprocessing.ipynb
+|-- src
+|   |-- Preprocessing.ipynb
+|   `-- Tree_Visualization.ipynb
+|
 `-- raw_data
     |-- gisaid_cov2020_sequences_filtered.fasta
     |-- gisaid_cov2020_sequences.fasta
@@ -21,7 +24,9 @@ Raw data from GISAID: https://www.epicov.org/epi3/frontend#61101
 Nextstrain GISAID metadata is now avalable on GISAID: more instruction [here](https://github.com/nextstrain/ncov/blob/master/docs/running.md)
 
 
-
-
-
-
+### More resources for tree visualization:
+- http://www.randelshofer.ch/treeviz/
+- https://biopython.org/wiki/Phylo
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2642634/
+- http://tree.bio.ed.ac.uk/software/figtree/
+- http://phylo.io/# 
