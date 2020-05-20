@@ -13,8 +13,15 @@
 ```
 Notes: raw_data directory is git-ignored
 
+
+### How to start
+`pip3 install -r requirements.txt`
+
 ### Preprocessing
 From Raw Data (GISAID fasta and nextstrain metadata), you can use `Preprocessing.ipynb` to filter out those useful data. In this case, we set it to `host: human` with known `age`, `gender`, `country`, and `submitted date`
+
+
+---
 
 ### Raw Data:
 Raw data from GISAID: https://www.epicov.org/epi3/frontend#61101
