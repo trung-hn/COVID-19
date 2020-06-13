@@ -1,24 +1,24 @@
 ### Directory tree
 ```
 .
-|-- src
-|   |-- Preprocessing.ipynb
-|   |-- Tree_Visualization.ipynb
-|   |-- bubbleTree.py           
-|   |-- circularTree.py         
-|   |-- compareTree.py          
-|   |-- nodeStyle.py            
-|   |-- nodeStyleColored.py     
-|   |-- plainTree.py            
-|   |-- semi_tree.pdf           
-|   |-- treeDrawingEngine.py    
-|   `-- treeInTree.py           
-|
-`-- raw_data
-    |-- gisaid_cov2020_sequences_filtered.fasta
-    |-- gisaid_cov2020_sequences.fasta
-    |-- metadata.tsv
-    `-- ...
+├── raw_data
+│   ├── COVID-19-data-linked - Shortcut.lnk
+│   └── gisaid_cov2020_sequences.fasta
+├── src
+│   ├── Preprocessing.ipynb
+│   ├── bubbleTree.py
+│   ├── circularTree.py
+│   ├── compareTree.py
+│   ├── nodeStyle.py
+│   ├── nodeStyleColored.py
+│   ├── plainTree.py
+│   ├── semi_tree.pdf
+│   ├── treeDrawingEngine.py
+│   └── treeInTree.py
+└── trees
+    ├── gisaid_cov2020_sequences_filtered_8312_age.nwk
+    └── gisaid_cov2020_sequences_filtered_8312_age_country.nwk
+    
 ```
 Notes: raw_data directory is git-ignored
 
