@@ -3,7 +3,16 @@
 .
 |-- src
 |   |-- Preprocessing.ipynb
-|   `-- Tree_Visualization.ipynb
+|   |-- Tree_Visualization.ipynb
+|   |-- bubbleTree.py           
+|   |-- circularTree.py         
+|   |-- compareTree.py          
+|   |-- nodeStyle.py            
+|   |-- nodeStyleColored.py     
+|   |-- plainTree.py            
+|   |-- semi_tree.pdf           
+|   |-- treeDrawingEngine.py    
+|   `-- treeInTree.py           
 |
 `-- raw_data
     |-- gisaid_cov2020_sequences_filtered.fasta
